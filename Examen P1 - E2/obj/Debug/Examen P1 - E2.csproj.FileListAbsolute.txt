@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\Examen P1 - E2\bin\Debug\Examen P1 - E2.exe.config
+C:\Users\jocel\source\repos\Examen P1 - E2\bin\Debug\Examen P1 - E2.exe
+C:\Users\jocel\source\repos\Examen P1 - E2\bin\Debug\Examen P1 - E2.pdb
+C:\Users\jocel\source\repos\Examen P1 - E2\obj\Debug\Examen P1 - E2.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Examen P1 - E2\obj\Debug\Examen P1 - E2.exe
+C:\Users\jocel\source\repos\Examen P1 - E2\obj\Debug\Examen P1 - E2.pdb

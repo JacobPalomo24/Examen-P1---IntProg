@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\Examen P1 - E4\bin\Debug\Examen P1 - E4.exe.config
+C:\Users\jocel\source\repos\Examen P1 - E4\bin\Debug\Examen P1 - E4.exe
+C:\Users\jocel\source\repos\Examen P1 - E4\bin\Debug\Examen P1 - E4.pdb
+C:\Users\jocel\source\repos\Examen P1 - E4\obj\Debug\Examen P1 - E4.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Examen P1 - E4\obj\Debug\Examen P1 - E4.exe
+C:\Users\jocel\source\repos\Examen P1 - E4\obj\Debug\Examen P1 - E4.pdb
